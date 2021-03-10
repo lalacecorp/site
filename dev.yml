@@ -1,0 +1,6 @@
+name: jekyll
+
+up:
+  - ruby:
+      version: 2.7.2
+  - bundler

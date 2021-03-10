@@ -1,0 +1,12 @@
+body {
+    overflow-x: hidden;
+}
+
+.container.shaded {
+    background-color: #dee8f9 !important;
+}
+
+.spacer {
+    margin-top: 20px;
+    padding-bottom:15px;
+}

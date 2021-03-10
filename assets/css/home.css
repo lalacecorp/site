@@ -1,0 +1,45 @@
+hgroup { text-align: center; }
+
+header h4 { color: #999; }
+
+#flight {
+    zoom : 8;
+    margin-top: 4px;
+}
+
+#selection {
+    zoom: 11;
+    margin-top: 1px;
+    margin-left: -1px;
+}
+
+#worldwide {
+    zoom: 18;
+    margin-top: -4px;
+    margin-left: 3px;
+}
+
+@-moz-document url-prefix(){
+
+    #selection {
+        -moz-transform: scale(11,11);
+        margin-top: 90px;
+        margin-left: 75px;
+    }
+
+    #worldwide {
+        -moz-transform: scale(13,13);
+        margin-top:   85px;
+        margin-left : 200px;
+    }
+
+    #flight {
+        -moz-transform: scale(11,11);
+        margin-left: 44px;
+    }
+
+    .worldwide_text {
+        margin-top : -60px;
+    }
+
+}

@@ -1,0 +1,16 @@
+#message {
+    margin-left : 0px;
+}
+
+.submitting {
+    margin-top : 30px;
+}
+
+.fa {
+  margin : 5px;
+
+}
+
+.alert.error { background: #df8989; border: 1px solid #ca3838; color: #7b2121; }
+
+.field.danger:after { font-family: "entypo"; content: "\2716"; font-size: 16px; position: absolute; top: 5px; z-index: 999; color: #ca3838; }

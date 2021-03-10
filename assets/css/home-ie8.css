@@ -1,0 +1,25 @@
+#flight {
+    zoom : 3.5;
+    margin-left: -300px;
+}
+
+#selection {
+    zoom : 8;
+    margin-top: -35px;
+    margin-left: -65px;
+}
+
+#worldwide {
+    zoom: 5;
+    margin-top: -200px;
+    margin-left : -20px;
+}
+
+.diverse_products {
+    margin-bottom : 0px;
+}
+
+.worldwide_text {
+    margin-top : 0px;
+    margin-bottom: -10px;
+}
